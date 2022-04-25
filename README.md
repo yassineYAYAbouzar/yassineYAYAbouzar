@@ -88,8 +88,7 @@
 <h3 align="center">
 📛Yassine BOUZAR📛 
 </br> 
-<img src="https://raw.githubusercontent.com/trinib/word-cloud/main/wordcloud/wordcloud.png" alt="WordCloud" width="100%">
-<!--📏LINE-->
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
 <p align="center">
 <!--🐱CAT-->
