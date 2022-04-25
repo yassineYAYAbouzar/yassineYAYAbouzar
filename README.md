@@ -84,17 +84,6 @@
 <p> 
 
 -----
-  </details>
-</details>
-</details><h5 align="center">
-  </tr>
- </table>
-
-<!--✏️WORDBOARD / 🌐WEBSITE: https://github.com/JessicaLim8/JessicaLim8 --> 
-<h2 align="center">
-Join the Word Cloud Board :cloud: :pencil2:
-
-### :thought_balloon: <a href="https://github.com/trinib/word-cloud/issues/new?template=addword.md&title=wordcloud%7Cadd%7C%3CINSERT-WORD%3E"><b>Add your 
 
 <h3 align="center">
 📛Yassine BOUZAR📛 
