@@ -44,11 +44,11 @@
 
 ## Connect with me:
 <p align="center">
-  <a href="mailto:tien.huynhlt.tn@gmail.com" >
+  <a href="mailto:dev.yassinebouzar@gmail.com" >
     <img align="center" alt="TienHuynh-TN | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
   
-  <a href="https://www.linkedin.com/in/tienhuynh-tn/" target="_blank">
+  <a href="[https://www.linkedin.com/in/tienhuynh-tn/](https://ma.linkedin.com/in/yassine-bouzar)" target="_blank">
     <img align="center" alt="TienHuynh-TN | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   
@@ -56,11 +56,11 @@
       <img align="center" alt="TienHuynh-TN | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
   </a> &nbsp;&nbsp;
   
-  <a href="https://ma.linkedin.com/in/yassine-bouzar" target="_blank">
+  <a href="[https://ma.linkedin.com/in/yassine-bouzar](https://www.instagram.com/yassine.el.bouzar/)" target="_blank">
     <img align="center" alt="TienHuynh-TN | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
   
-  <a href="https://profile-summary-for-github.herokuapp.com/user/tienhuynh-tn" target="_blank">
+  <a href="[https://profile-summary-for-github.herokuapp.com/user/tienhuynh-tn](https://profile-summary-for-github.herokuapp.com/user/yassineYAYAbouzar)" target="_blank">
     <img align="center" alt="TienHuynh-TN | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
   </a> &nbsp;&nbsp;
 <p> 
